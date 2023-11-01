@@ -1,7 +1,3 @@
-# Kubernetes Knowledge Hub 🌐
-
-Welcome to the Kubernetes Knowledge Hub, where you can delve deep into various Kubernetes topics and sharpen your skills. Whether you're just starting out or looking to become an expert, there's something here for everyone!
-
 ## Topics 📘
 
 ### 1. Role-Based Access Control (RBAC) 🛡️
