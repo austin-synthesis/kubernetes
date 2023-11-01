@@ -92,3 +92,5 @@ Remember that `RoleBindings` and `ClusterRoleBindings` can refer to both `Roles`
 Well done, intrepid explorer! You've journeyed further into the RBAC wilderness and uncovered deeper magics. With these new spells at your fingertips, you're well-equipped to protect and manage even the most intricate corners of our Kubernetes realm.
 
 May your paths be clear, and your roles be ever appropriate! Until the next adventure... 🌌🔮🛡
+
+[**Advanced Guide**](./rbac/advanced.md): Explore advanced RBAC configurations and master the intricacies.

@@ -72,3 +72,5 @@ Integrate with external identity providers using OIDC or LDAP. This is vital for
 Mastery isn't just about knowledge, but its application. As you stand atop the pinnacle of RBAC understanding, remember the responsibility it carries. Protect, design, and evolve.
 
 May your clusters be ever secure, your roles precise, and your journey legendary. Until realms unknown beckon... 🌌🔮👑
+
+[**Expert's Guide**](./rbac/expert.md): For those looking to achieve RBAC nirvana. Delve into the most advanced aspects of Kubernetes RBAC.
