@@ -93,4 +93,4 @@ Well done, intrepid explorer! You've journeyed further into the RBAC wilderness 
 
 May your paths be clear, and your roles be ever appropriate! Until the next adventure... 🌌🔮🛡
 
-[**Advanced Guide**](./rbac/advanced.md): Explore advanced RBAC configurations and master the intricacies.
+[**Advanced Guide**](./advanced.md): Explore advanced RBAC configurations and master the intricacies.
