@@ -108,4 +108,4 @@ Congrats, noble guardian of Kubernetes! You've mastered RBAC's basics. The kingd
 
 Remember, with great power comes great responsibility. Use your RBAC spells wisely, ensuring only those who need access get it. Safe travels on your Kubernetes journey! 🌟🚀🏰
 
-[**Intermediate Guide**](./rbac/intermediate.md): Familiar with the basics and ready to dive deeper? Continue your journey here.
+[**Intermediate Guide**](./intermediate.md): Familiar with the basics and ready to dive deeper? Continue your journey here.
